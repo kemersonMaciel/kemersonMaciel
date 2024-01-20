@@ -43,7 +43,7 @@ Eu tenho 27 anos, sou estudante do 3º período do curso Análise e Desenvolvime
 <h1>GitHub Stats</h1>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kemersonMaciel&theme=transparent&bg_color=00008B&border_color=000&show_icons=true&icon_color=FFD700&title_color=FFD700&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kemersonMaciel&bg_color=00008B&border_color=000&title_color=FFD700&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kemersonMaciel&bg_color=00008&border_color=FFD700&title_color=FFD700&text_color=FFF)
 
 <h1> Meus Projetos e Desafios </h1>
 
