@@ -52,5 +52,4 @@ Eu tenho 27 anos, sou estudante do 3º período do curso Análise e Desenvolvime
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=kemersonMaciel&repo=desafio-fun-o-DIO&bg_color=00008B&border_color=000&show_icons=true&icon_color=FFD700&title_color=FFD700&text_color=FFF)](https://github.com/kemersonMaciel/desafio-fun-o-DIO)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=kemersonMaciel&repo=mudanca-climatica&bg_color=00008B&border_color=000&show_icons=true&icon_color=FFD700&title_color=FFD700&text_color=FFF)](https://github.com/kemersonMaciel/mudanca-climatica)
 
-
 ---
